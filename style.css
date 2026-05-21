@@ -5,13 +5,13 @@
 
 /* ── TOKENS ── */
 :root {
-    --ink: #07111e;
-    --ink-mid: #0d1e35;
-    --ink-light: #1a3352;
-    --gold: #c8965a;
-    --gold-hi: #dea96e;
-    --gold-dim: rgba(200, 150, 90, 0.12);
-    --gold-border: rgba(200, 150, 90, 0.28);
+    --ink: #0D1B2A;
+    --ink-mid: #142D42;
+    --ink-light: #1E3F56;
+    --gold: #00A896;
+    --gold-hi: #00C5B3;
+    --gold-dim: rgba(0, 168, 150, 0.12);
+    --gold-border: rgba(0, 168, 150, 0.28);
 
     --paper: #f6f3ee;
     --paper-warm: #ede8df;
